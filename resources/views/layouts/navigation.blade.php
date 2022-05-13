@@ -18,7 +18,7 @@
                         Assignments
                     </x-nav-link>
                     <x-nav-link style="text-decoration: none" :href="route('dashboard')" :active="request()->routeIs('dashboard')">
-                        User
+                        Teams
                     </x-nav-link>
                 </div>
             </div>
